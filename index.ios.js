@@ -90,7 +90,6 @@ class App extends React.Component {
   }
 
   onPress(e) {
-    console.log(e);
   }
 
 }
