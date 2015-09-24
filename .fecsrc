@@ -1,0 +1,13 @@
+{
+    "eslint": {
+        "env": {
+            "node": true,
+            "browser": false
+        },
+
+        "rules": {
+            "no-console": 0
+            "fecs-indent":  [2, "spaces", 2, 0]
+        }
+    }
+}
